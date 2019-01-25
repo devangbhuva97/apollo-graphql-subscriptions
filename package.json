@@ -1,0 +1,17 @@
+{
+  "name": "graphql-apollo-express",
+  "version": "1.0.0",
+  "description": "GraphQL Subscription using apollo-server-express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Devang Bhuva",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.3.2",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1"
+  }
+}
